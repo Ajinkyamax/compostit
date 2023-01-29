@@ -36,22 +36,6 @@ h2 {
     text-align: center;
 }
 
-h3 {
-    margin: 0;
-    text-align: center;
-}
-
-h4 {
-    font-size: 18px;
-}
-
-p.lead {
-    font-size: 30px;
-    font-weight: 300;
-    text-align: center;
-    margin: 10 0px;
-}
-
 p {
     font-size: 20px;
     font-weight: bolder;
@@ -91,34 +75,14 @@ header nav ul li {
     display: inline-block;
     padding: 0 20px;
 }
-
 header nav ul li a {
     text-transform: uppercase;
     text-decoration: none;
     font-weight: bold;
 }
-
 header nav ul li a:hover {
     color: #c0f24d;
     padding-top: 20px;
-    background: url(../images/weagile.jpg) top center no-repeat;
-}
-
-
-header nav ul li#logo a {
-    display: block;
-    width: 292px;
-    height: 141px;
-    background: url('../images/weagile.jpg') center center no-repeat;
-    text-indent: -9999px;
-}
-
-.contact {
-    text-align: center;
-}
-
-.image {
-    float: left;
 }
 
 .description_1 {
